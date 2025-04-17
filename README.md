@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codershivam18](https://github.com/codershivam18)
+- 👨‍💻 Proof of Work (Designs including thumbnail,Infographics Website clone etc.) [https://fueler.io/the_shivam/timeline](https://fueler.io/the_shivam/timeline)
 
 - 📫 How to reach me **shivammanitripathi004@gmail.com**
 
