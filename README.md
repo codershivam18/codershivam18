@@ -1,6 +1,6 @@
 [![MasterHead](https://imgs.search.brave.com/sqADf3VWb47UAJr8FcHcJrwPFWJ7HXp94yiUIPP1O5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9y/ZWFyLXZpZXctcHJv/Z3JhbW1lci13b3Jr/aW5nLWFsbC1uaWdo/dC1sb25nXzEwOTgt/MTg2OTcuanBnP3Nl/bXQ9YWlzX2h5YnJp/ZA)](https://github.com/codershivam18.io)
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst ,frontend developer and Graphic Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 - 🌱 I’m currently learning **Data Science**
