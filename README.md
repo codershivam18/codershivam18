@@ -1,98 +1,89 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Shivam%20Mani%20Tripathi&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=250&section=header&text=Shivam%20Mani%20Tripathi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivam Mani Tripathi</h1>
-<h3 align="center">🚀 Data Analyst | Python Developer | SQL | Power BI | Django</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Shivam Mani Tripathi</h1>
+  <h3>🚀 Full Stack Developer | AI Solution Architect | Freelance Specialist</h3>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Solution+Architect;Freelance+Specialist;Data+Scientist;Always+Evolving+🚀">
+  </p>
+</div>
 
 ---
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Django+Backend+Developer;Always+Learning+🚀">
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 B.Tech Computer Science Student  
-- 📊 Passionate about **Data Analytics & Business Insights**  
-- 💻 Skilled in **Python, SQL, Power BI, Django, REST APIs**  
-- 📈 Focused on solving **real-world problems using data**  
-- 🌱 Currently learning **Advanced Analytics & Backend Systems**
+## 🧬 About Me
+<div align="center">
+  <p>
+    I am a <strong>Computer Science Undergraduate</strong> and a versatile <strong>Freelancer</strong> dedicated to bridging the gap between complex data and intuitive user experiences. I specialize in building high-performance web applications, AI-integrated solutions, and premium digital products.
+  </p>
+</div>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📊 Data Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### 🌐 Full Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express" />
 </p>
 
-### 💻 Development
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,js,html,css" />
+### 🧠 AI & Intelligent Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,flask" />
 </p>
 
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 📊 Data & Operations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git,github" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Featured Projects
 
-### ❤️ CardioGuard – Heart Attack Predictor
-- 🔹 ML model with **85% accuracy**
-- 🔹 Performed EDA & feature engineering
-- 🔹 Generated insights for **risk prediction**
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 EvoHive AI Laboratory</h3>
+      <p>An autonomous, self-improving AI swarm utilizing Genetic Algorithms to evolve system prompts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      </p>
+      <a href="https://github.com/codershivam18/evohive"><b>View Repo</b></a> | <a href="https://coder18-evohive.hf.space"><b>View Live</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 AspirantHQ – College ERP</h3>
+      <p>A comprehensive institutional ERP with interactive dashboards, notifications, and media handling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      </p>
+      <a href="https://github.com/codershivam18/aspiranthq"><b>View Repo</b></a> | <a href="https://coder18-aspiranthq.hf.space/"><b>View Live</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Career Analytics Dashboard
-- 🔹 Built **Power BI dashboard**
-- 🔹 Created KPIs using **DAX**
-- 🔹 Improved reporting & data visibility
-
----
-
-### 🏫 College ERP System
-- 🔹 Developed using **Django**
-- 🔹 Role-based authentication system
-- 🔹 Managed database using ORM
-
----
-
-## 📊 GitHub Stats
+## 📊 Analytics & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codershivam18&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershivam18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codershivam18&show_icons=true&theme=tokyonight&border_radius=10" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codershivam18&layout=compact&theme=tokyonight&border_radius=10" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershivam18&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-## 🧠 Top Skills
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codershivam18&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Career Focus
-- 📊 Data Analyst  
-- 📈 Business Analyst  
-- 💻 Backend / Full-Stack Developer  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
+## 🌐 Connect & Collaborate
+<div align="center">
   <a href="https://www.linkedin.com/in/shivam-mani-tripathi-3073b9271/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -100,17 +91,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://codershivam18.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</p>
+</div>
 
----
+<br>
 
 <p align="center">
-  ⭐ *Focused on building impactful solutions using data & technology*
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:38bdf8&height=120&section=footer&animation=fadeIn"/>
 </p>
